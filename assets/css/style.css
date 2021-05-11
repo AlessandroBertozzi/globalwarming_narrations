@@ -1468,7 +1468,7 @@ img {
   opacity: 0;
   transition: bottom ease-in-out 0.4s;
   text-align: center;
-  background: rgba(30, 67, 86, 0.8);
+  background: rgba(38, 166, 91, 1);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2353,3 +2353,4 @@ img {
 #footer .credits a {
   color: #a2cce3;
 }
+
